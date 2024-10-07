@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **You can solve other bug ,but not your bug**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
