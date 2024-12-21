@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I'm not good enough But it's better than yesterday.**
 
+- Interesting in Go and Rust.
+
 <p align="left">
 </p>
 
